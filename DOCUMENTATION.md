@@ -112,7 +112,19 @@ Tested on real-world synthetic documents: English Circular, Hindi Resolution (De
 
 ---
 
-## 8. How to Run
+## 8. Reviewer UI Screenshots & Walkthrough
+
+The Streamlit UI provides human-in-the-loop verification, provenance tracking, and side-by-side conflict resolution:
+
+### Screenshot 1: English Circular Extraction & Verbatim Evidence Display
+![English Circular UI](assets/ui_screenshot_english.png)
+
+### Screenshot 2: Hindi Government Resolution (Devanagari) Extraction & Citation
+![Hindi Order UI](assets/ui_screenshot_hindi.png)
+
+---
+
+## 9. How to Run
 
 1. **Pipeline CLI:** `python main.py` (or `python main.py --offline`)
 2. **Interactive Reviewer UI:** `streamlit run app.py`

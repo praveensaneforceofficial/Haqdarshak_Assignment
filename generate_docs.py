@@ -206,8 +206,23 @@ def create_document():
     doc.add_paragraph("• Total Cost for 5,000 Schemes: ~$4.65 USD (~ ₹390 INR total).")
     doc.add_paragraph("• Extremely affordable and sustainable for non-profit social impact operations.")
 
-    # SECTION 8: HOW TO RUN
-    doc.add_heading("8. How to Run the Code", level=1)
+    # SECTION 8: HOW TO RUN & UI SCREENSHOTS
+    doc.add_heading("8. Reviewer UI Screenshots & Walkthrough", level=1)
+    doc.add_paragraph("The interactive UI provides human-in-the-loop verification, provenance quote tracking, and conflict resolution:")
+    
+    import os
+    if os.path.exists("assets/ui_screenshot_english.png"):
+        doc.add_paragraph("Screenshot 1: English Circular Extraction & Verbatim Evidence Display:")
+        doc.add_picture("assets/ui_screenshot_english.png", width=Inches(6.5))
+        doc.add_paragraph().paragraph_format.space_after = Pt(8)
+
+    if os.path.exists("assets/ui_screenshot_hindi.png"):
+        doc.add_paragraph("Screenshot 2: Hindi Government Resolution (Devanagari) Extraction & Citation:")
+        doc.add_picture("assets/ui_screenshot_hindi.png", width=Inches(6.5))
+        doc.add_paragraph().paragraph_format.space_after = Pt(8)
+
+    # SECTION 9: HOW TO RUN
+    doc.add_heading("9. How to Run the Code", level=1)
     doc.add_paragraph("1. Pipeline CLI: python main.py (or python main.py --offline)")
     doc.add_paragraph("2. Interactive Reviewer UI: streamlit run app.py")
     doc.add_paragraph("3. Standalone Browser UI: Open web/index.html in any browser")

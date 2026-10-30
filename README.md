@@ -69,6 +69,17 @@ The codebase is built on **SOLID Object-Oriented Principles**, ensuring modulari
 
 ## 4. Setup & Running Instructions
 
+### Reviewer UI Screenshots
+Here is the interactive Streamlit Reviewer UI in action:
+
+**1. English Circular Extraction (Mukhyamantri Balika Protsahan Yojana):**
+![English Circular Extraction](assets/ui_screenshot_english.png)
+
+**2. Hindi Resolution Extraction (मुख्यमंत्री कृषक संबल योजना - Devanagari):**
+![Hindi Circular Extraction](assets/ui_screenshot_hindi.png)
+
+---
+
 ### 1. Requirements
 - Python 3.10+
 - Dependencies: `openai`, `pydantic`, `streamlit`, `python-docx`
