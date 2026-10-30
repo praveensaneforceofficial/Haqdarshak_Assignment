@@ -1,0 +1,717 @@
+{
+  "doc_1_english": {
+    "scheme_name": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "scheme_name",
+      "value": "Mukhyamantri Balika Protsahan Yojana 2026",
+      "evidence": {
+        "exact_text": "SUBJECT: Operational Guidelines for \"Mukhyamantri Balika Protsahan Yojana 2026\"",
+        "location": "SUBJECT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "department": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "department",
+      "value": "WOMEN AND CHILD DEVELOPMENT",
+      "evidence": {
+        "exact_text": "DEPARTMENT OF WOMEN AND CHILD DEVELOPMENT",
+        "location": "Header / Overview",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_amount",
+      "value": "Rs. 1,500 per month",
+      "evidence": {
+        "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+        "location": "2. FINANCIAL BENEFIT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "benefit_type": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_type",
+      "value": "Direct Cash / Financial Assistance",
+      "evidence": {
+        "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+        "location": "2. FINANCIAL BENEFIT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_frequency",
+      "value": "Quarterly",
+      "evidence": {
+        "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+        "location": "2. FINANCIAL BENEFIT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "eligibility_conditions": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "eligibility_conditions",
+      "value": [
+        "The applicant must be a domicile of Madhya Pradesh.",
+        "The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.",
+        "Annual family income from all sources must not exceed Rs. 2,50,000 per annum.",
+        "Age of the applicant must be between 15 and 19 years as of 1st January 2026.",
+        "The applicant must not be receiving scholarship benefits from any other state-funded scheme simultaneously."
+      ],
+      "evidence": {
+        "exact_text": "- The applicant must be a domicile of Madhya Pradesh.\n- The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.\n- Annual family income from all sources must not exceed Rs. 2,50,000 per annum.\n- Age o...",
+        "location": "Eligibility Section",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "documents_required": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "documents_required",
+      "value": [
+        "Domicile Certificate of Madhya Pradesh.",
+        "Aadhaar Card of the applicant (linked with active mobile number).",
+        "Valid Income Certificate issued by Tahsildar / competent authority.",
+        "Marksheet of Class 10 examination.",
+        "Bonafide Student Certificate issued by the Head of the Institution.",
+        "Bank Passbook copy showing active DBT-enabled account."
+      ],
+      "evidence": {
+        "exact_text": "i) Domicile Certificate of Madhya Pradesh.\nii) Aadhaar Card of the applicant (linked with active mobile number).\niii) Valid Income Certificate issued by Tahsildar / competent authority.\niv) Marksheet of Class 10 examination.\nv) Bonafide Student Certi...",
+        "location": "Documents Section",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.94,
+      "status": "found"
+    },
+    "how_to_apply": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "how_to_apply",
+      "value": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also be accepted at block-level Seva Kendras.",
+      "evidence": {
+        "exact_text": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also",
+        "location": "Application Procedure Section",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.91,
+      "status": "found"
+    },
+    "deadline": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "deadline",
+      "value": "31st December 2026",
+      "evidence": {
+        "exact_text": "Last date for submission of online application: 31st December 2026.",
+        "location": "6. IMPORTANT DATES & DEADLINE:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "official_link": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "official_link",
+      "value": "https://wcd.mp.gov.in/balika-protsahan",
+      "evidence": {
+        "exact_text": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also be accepted at block-level Seva Kendras.",
+        "location": "5. APPLICATION PROCEDURE:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.98,
+      "status": "found"
+    }
+  },
+  "doc_2_hindi": {
+    "scheme_name": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "scheme_name",
+      "value": "मुख्यमंत्री कृषक संबल योजना 2026",
+      "evidence": {
+        "exact_text": "विषय: \"मुख्यमंत्री कृषक संबल योजना 2026\" का क्रियान्वयन",
+        "location": "Header / Overview",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "department": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "department",
+      "value": "यह योजना कृषि एवं किसान कल्याण विभाग, उत्तर प्रदेश द्वारा संचालित की जाएगी।",
+      "evidence": {
+        "exact_text": "2. प्रशासनिक विभाग:\nयह योजना कृषि एवं किसान कल्याण विभाग, उत्तर प्रदेश द्वारा संचालित की जाएगी।",
+        "location": "2.",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "benefit_amount",
+      "value": "₹6,000 प्रति वर्ष",
+      "evidence": {
+        "exact_text": "पात्र छोटे एवं सीमांत किसानों को बीज तथा उर्वरक खरीद हेतु ₹6,000 प्रति वर्ष की वित्तीय सहायता प्रदान की जाएगी। यह धनराशि ₹2,000 की तीन समान किस्तों में प्रत्येक चार माह के अंतराल पर प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से सीधे बैंक खाते में भेजी जाएगी।",
+        "location": "3. देय वित्तीय लाभ:",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "benefit_type": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "benefit_type",
+      "value": "Direct Cash / Financial Assistance",
+      "evidence": {
+        "exact_text": "पात्र छोटे एवं सीमांत किसानों को बीज तथा उर्वरक खरीद हेतु ₹6,000 प्रति वर्ष की वित्तीय सहायता प्रदान की जाएगी। यह धनराशि ₹2,000 की तीन समान किस्तों में प्रत्येक चार माह के अंतराल पर प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से सीधे बैंक खाते में भेजी जाएगी।",
+        "location": "3. देय वित्तीय लाभ:",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "benefit_frequency",
+      "value": "Annual",
+      "evidence": {
+        "exact_text": "पात्र छोटे एवं सीमांत किसानों को बीज तथा उर्वरक खरीद हेतु ₹6,000 प्रति वर्ष की वित्तीय सहायता प्रदान की जाएगी। यह धनराशि ₹2,000 की तीन समान किस्तों में प्रत्येक चार माह के अंतराल पर प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से सीधे बैंक खाते में भेजी जाएगी।",
+        "location": "3. देय वित्तीय लाभ:",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "eligibility_conditions": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "eligibility_conditions",
+      "value": [
+        "आवेदक उत्तर प्रदेश का मूल निवासी होना चाहिए।",
+        "आवेदक के पास अधिकतम 2 हेक्टेयर (5 एकड़) कृषि योग्य भूमि का स्वामित्व होना चाहिए।",
+        "आवेदक किसान के परिवार में कोई सदस्य आयकर दाता अथवा सरकारी सेवा में कार्यरत नहीं होना चाहिए।",
+        "आवेदक की न्यूनतम आयु 18 वर्ष पूर्ण होनी चाहिए।"
+      ],
+      "evidence": {
+        "exact_text": "- आवेदक उत्तर प्रदेश का मूल निवासी होना चाहिए।\n- आवेदक के पास अधिकतम 2 हेक्टेयर (5 एकड़) कृषि योग्य भूमि का स्वामित्व होना चाहिए।\n- आवेदक किसान के परिवार में कोई सदस्य आयकर दाता अथवा सरकारी सेवा में कार्यरत नहीं होना चाहिए।\n- आवेदक की न्यूनतम आयु 18 ...",
+        "location": "Eligibility Section",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "documents_required": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "documents_required",
+      "value": [
+        "आधार कार्ड (मोबाइल नंबर से लिंक)"
+      ],
+      "evidence": {
+        "exact_text": "1. आधार कार्ड (मोबाइल नंबर से लिंक)",
+        "location": "Documents Section",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.94,
+      "status": "found"
+    },
+    "how_to_apply": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "how_to_apply",
+      "value": "इच्छुक किसान कृषि विभाग के आधिकारिक पोर्टल https://upagriculture.up.gov.in पर जाकर ऑनलाइन पंजीकरण कर सकते हैं अथवा नजदीकी जन सेवा केंद्र (CSC) के माध्यम से आवेदन कर सकते हैं।",
+      "evidence": {
+        "exact_text": "इच्छुक किसान कृषि विभाग के आधिकारिक पोर्टल https://upagriculture.up.gov.in पर जाकर ऑनलाइन पंजीकरण कर सकते हैं अथवा नजदीकी जन सेवा केंद्र (CSC) के माध्यम से आवेदन कर सकते हैं।",
+        "location": "Application Procedure Section",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.91,
+      "status": "found"
+    },
+    "deadline": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "deadline",
+      "value": "30 नवंबर 2026 निर्धारित की गई है।",
+      "evidence": {
+        "exact_text": "वर्ष 2026-27 के लिए आवेदन करने की अंतिम तिथि 30 नवंबर 2026 निर्धारित की गई है।",
+        "location": "7. अंतिम तिथि:",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "official_link": {
+      "scheme_ref": "SCHEME-UP-002",
+      "field": "official_link",
+      "value": "https://upagriculture.up.gov.in",
+      "evidence": {
+        "exact_text": "इच्छुक किसान कृषि विभाग के आधिकारिक पोर्टल https://upagriculture.up.gov.in पर जाकर ऑनलाइन पंजीकरण कर सकते हैं अथवा नजदीकी जन सेवा केंद्र (CSC) के माध्यम से आवेदन कर सकते हैं।",
+        "location": "6. आवेदन प्रक्रिया:",
+        "source_ref": "doc_2_hindi_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.98,
+      "status": "found"
+    }
+  },
+  "doc_4_scanned": {
+    "scheme_name": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "scheme_name",
+      "value": "Rajasthan Mukhyamantri Vridhjan Samman Pension Yojana.",
+      "evidence": {
+        "exact_text": "1. NAEM OF SCHEME:\nRajasthan Mukhyamantri Vridhjan Samman Pension Yojana.",
+        "location": "1.",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "department": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "department",
+      "value": "Department of Social Justice and Empowerment",
+      "evidence": {
+        "exact_text": "Department of Social Justice and Empowerment, Government of Rajasthan.",
+        "location": "2. DEPARTMENT:",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "benefit_amount",
+      "value": "Rs. 1,000 per month",
+      "evidence": {
+        "exact_text": "Monthly pension of Rs. 1,000 per month for beneficiaries aged 55 to 74 years, and Rs. 1,250 per month for beneficiaries aged 75 years and above. Disbursed monthly via Direct Benefit Transfer.",
+        "location": "3. BENEF1T AMOUNT:",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "benefit_type": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "benefit_type",
+      "value": "Social Security Pension",
+      "evidence": {
+        "exact_text": "SUB: IMPLEMENTAT1ON OF \"RAJASTHAN VRIDDHA PENSION YOJANA\" (AMENDMENT 2026)",
+        "location": "Header / Overview",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "benefit_frequency",
+      "value": "Monthly",
+      "evidence": {
+        "exact_text": "Monthly pension of Rs. 1,000 per month for beneficiaries aged 55 to 74 years, and Rs. 1,250 per month for beneficiaries aged 75 years and above. Disbursed monthly via Direct Benefit Transfer.",
+        "location": "3. BENEF1T AMOUNT:",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9,
+      "status": "found"
+    },
+    "eligibility_conditions": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "eligibility_conditions",
+      "value": [
+        "Resident of Rajasthan.",
+        "Women aged 55 years or older; Men aged 58 years or older.",
+        "Total combined family annual income must not exceed Rs. 48,000/- per annum.",
+        "Persons with no family support or having destitute status."
+      ],
+      "evidence": {
+        "exact_text": "- Resident of Rajasthan.\n- Women aged 55 years or older; Men aged 58 years or older.\n- Total combined family annual income must not exceed Rs. 48,000/- per annum.\n- Persons with no family support or having destitute status.",
+        "location": "Eligibility Section",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.92,
+      "status": "found"
+    },
+    "documents_required": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "documents_required",
+      "value": [
+        "Jan Aadhaar Card / Aadhaar Card",
+        "Age proof / Voter ID",
+        "Income self-declaration certificate attested by Patwari/Sarpanch",
+        "Bank passbook"
+      ],
+      "evidence": {
+        "exact_text": "- Jan Aadhaar Card / Aadhaar Card\n- Age proof / Voter ID\n- Income self-declaration certificate attested by Patwari/Sarpanch\n- Bank passbook",
+        "location": "Documents Section",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.94,
+      "status": "found"
+    },
+    "how_to_apply": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "how_to_apply",
+      "value": "Apply online through Emitra kiosks or RajSSP portal at https://rajssp.raj.nic.in.",
+      "evidence": {
+        "exact_text": "Apply online through Emitra kiosks or RajSSP portal at https://rajssp.raj.nic.in.",
+        "location": "Application Procedure Section",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.91,
+      "status": "found"
+    },
+    "deadline": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "deadline",
+      "value": "No last date for application (Open throughout the year)",
+      "evidence": {
+        "exact_text": "Rolling scheme. No last date for application (Open throughout the year).",
+        "location": "7. DEADLINE:",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.95,
+      "status": "found"
+    },
+    "official_link": {
+      "scheme_ref": "SCHEME-RJ-003",
+      "field": "official_link",
+      "value": "https://rajssp.raj.nic.in",
+      "evidence": {
+        "exact_text": "Apply online through Emitra kiosks or RajSSP portal at https://rajssp.raj.nic.in.",
+        "location": "6. HOW TO APPLY:",
+        "source_ref": "doc_4_scanned_noisy_ocr.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.98,
+      "status": "found"
+    }
+  },
+  "reconciled_scheme_mp_001": {
+    "department": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "department",
+      "value": "CONFLICT: Official MP WCD Circular ['WOMEN AND CHILD DEVELOPMENT'] vs MyScheme National Portal ['Department of School Education']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": "WOMEN AND CHILD DEVELOPMENT",
+          "evidence": {
+            "exact_text": "DEPARTMENT OF WOMEN AND CHILD DEVELOPMENT",
+            "location": "Header / Overview",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.92,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": "Department of School Education",
+          "evidence": {
+            "exact_text": "Department: Department of School Education, Madhya Pradesh",
+            "location": "Header / Overview",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.92,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "benefit_type": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_type",
+      "value": "Direct Cash / Financial Assistance",
+      "evidence": {
+        "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+        "location": "2. FINANCIAL BENEFIT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.9500000000000001,
+      "status": "found",
+      "note": "Corroborated across Official MP WCD Circular and MyScheme National Portal."
+    },
+    "scheme_name": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "scheme_name",
+      "value": "Mukhyamantri Balika Protsahan Yojana 2026",
+      "evidence": {
+        "exact_text": "SUBJECT: Operational Guidelines for \"Mukhyamantri Balika Protsahan Yojana 2026\"",
+        "location": "SUBJECT:",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 1.0,
+      "status": "found",
+      "note": "Corroborated across Official MP WCD Circular and MyScheme National Portal."
+    },
+    "how_to_apply": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "how_to_apply",
+      "value": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also be accepted at block-level Seva Kendras.",
+      "evidence": {
+        "exact_text": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also",
+        "location": "Application Procedure Section",
+        "source_ref": "doc_1_english_circular.txt",
+        "capture_date": "2026-10-30"
+      },
+      "confidence": 0.91,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_frequency",
+      "value": "CONFLICT: Official MP WCD Circular ['Quarterly'] vs MyScheme National Portal ['Monthly']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": "Quarterly",
+          "evidence": {
+            "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+            "location": "2. FINANCIAL BENEFIT:",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.9,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": "Monthly",
+          "evidence": {
+            "exact_text": "- Financial subsidy of Rs. 1,250 per month disbursed bi-annually (Rs. 7,500 every 6 months).",
+            "location": "Header / Overview",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.9,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "documents_required": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "documents_required",
+      "value": "CONFLICT: Official MP WCD Circular ['['Domicile Certificate of Madhya Pradesh.', 'Aadhaar Card of the applicant (linked with active mobile number).', 'Valid Income Certificate issued by Tahsildar / competent authority.', 'Marksheet of Class 10 examination.', 'Bonafide Student Certificate issued by the Head of the Institution.', 'Bank Passbook copy showing active DBT-enabled account.']'] vs MyScheme National Portal ['['Aadhaar Card', 'School Identity Card / Bonafide Certificate', 'Income Certificate', 'Bank Account Details']']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": [
+            "Domicile Certificate of Madhya Pradesh.",
+            "Aadhaar Card of the applicant (linked with active mobile number).",
+            "Valid Income Certificate issued by Tahsildar / competent authority.",
+            "Marksheet of Class 10 examination.",
+            "Bonafide Student Certificate issued by the Head of the Institution.",
+            "Bank Passbook copy showing active DBT-enabled account."
+          ],
+          "evidence": {
+            "exact_text": "i) Domicile Certificate of Madhya Pradesh.\nii) Aadhaar Card of the applicant (linked with active mobile number).\niii) Valid Income Certificate issued by Tahsildar / competent authority.\niv) Marksheet of Class 10 examination.\nv) Bonafide Student Certi...",
+            "location": "Documents Section",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.94,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": [
+            "Aadhaar Card",
+            "School Identity Card / Bonafide Certificate",
+            "Income Certificate",
+            "Bank Account Details"
+          ],
+          "evidence": {
+            "exact_text": "- Aadhaar Card\n- School Identity Card / Bonafide Certificate\n- Income Certificate\n- Bank Account Details",
+            "location": "Documents Section",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.94,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "eligibility_conditions": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "eligibility_conditions",
+      "value": "CONFLICT: Official MP WCD Circular ['['The applicant must be a domicile of Madhya Pradesh.', 'The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.', 'Annual family income from all sources must not exceed Rs. 2,50,000 per annum.', 'Age of the applicant must be between 15 and 19 years as of 1st January 2026.', 'The applicant must not be receiving scholarship benefits from any other state-funded scheme simultaneously.']'] vs MyScheme National Portal ['['Girl students resident of Madhya Pradesh.', 'Studying in Class 11 or 12 in state government schools.', 'Family income below Rs. 2,50,000 per annum.']']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": [
+            "The applicant must be a domicile of Madhya Pradesh.",
+            "The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.",
+            "Annual family income from all sources must not exceed Rs. 2,50,000 per annum.",
+            "Age of the applicant must be between 15 and 19 years as of 1st January 2026.",
+            "The applicant must not be receiving scholarship benefits from any other state-funded scheme simultaneously."
+          ],
+          "evidence": {
+            "exact_text": "- The applicant must be a domicile of Madhya Pradesh.\n- The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.\n- Annual family income from all sources must not exceed Rs. 2,50,000 per annum.\n- Age o...",
+            "location": "Eligibility Section",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.92,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": [
+            "Girl students resident of Madhya Pradesh.",
+            "Studying in Class 11 or 12 in state government schools.",
+            "Family income below Rs. 2,50,000 per annum."
+          ],
+          "evidence": {
+            "exact_text": "- Girl students resident of Madhya Pradesh.\n- Studying in Class 11 or 12 in state government schools.\n- Family income below Rs. 2,50,000 per annum.",
+            "location": "Eligibility Section",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.92,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "official_link": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "official_link",
+      "value": "CONFLICT: Official MP WCD Circular ['https://wcd.mp.gov.in/balika-protsahan'] vs MyScheme National Portal ['https://myscheme.gov.in/schemes/mp-balika-protsahan']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": "https://wcd.mp.gov.in/balika-protsahan",
+          "evidence": {
+            "exact_text": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also be accepted at block-level Seva Kendras.",
+            "location": "5. APPLICATION PROCEDURE:",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.98,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": "https://myscheme.gov.in/schemes/mp-balika-protsahan",
+          "evidence": {
+            "exact_text": "Source URL: https://myscheme.gov.in/schemes/mp-balika-protsahan",
+            "location": "Header / Overview",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.98,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "benefit_amount": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "benefit_amount",
+      "value": "CONFLICT: Official MP WCD Circular ['Rs. 1,500 per month'] vs MyScheme National Portal ['Rs. 1,250 per month']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": "Rs. 1,500 per month",
+          "evidence": {
+            "exact_text": "Eligible girl students enrolled in higher secondary education shall receive direct financial assistance of Rs. 1,500 per month. The benefit amount will be disbursed on a quarterly basis (Rs. 4,500 per quarter) directly into the Aadhaar-linked bank account of the beneficiary.",
+            "location": "2. FINANCIAL BENEFIT:",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.95,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": "Rs. 1,250 per month",
+          "evidence": {
+            "exact_text": "- Financial subsidy of Rs. 1,250 per month disbursed bi-annually (Rs. 7,500 every 6 months).",
+            "location": "Header / Overview",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.95,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    },
+    "deadline": {
+      "scheme_ref": "SCHEME-MP-001",
+      "field": "deadline",
+      "value": "CONFLICT: Official MP WCD Circular ['31st December 2026'] vs MyScheme National Portal ['15th November 2026']",
+      "confidence": "medium",
+      "status": "conflict",
+      "note": "Discrepancy detected between Official MP WCD Circular and MyScheme National Portal. Both retained for human reviewer decision.",
+      "conflicts": [
+        {
+          "value": "31st December 2026",
+          "evidence": {
+            "exact_text": "Last date for submission of online application: 31st December 2026.",
+            "location": "6. IMPORTANT DATES & DEADLINE:",
+            "source_ref": "doc_1_english_circular.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.95,
+          "source_name": "Official MP WCD Circular"
+        },
+        {
+          "value": "15th November 2026",
+          "evidence": {
+            "exact_text": "Application portal closes on 15th November 2026.",
+            "location": "Header / Overview",
+            "source_ref": "doc_3_myscheme_portal_conflict.txt",
+            "capture_date": "2026-10-30"
+          },
+          "confidence": 0.95,
+          "source_name": "MyScheme National Portal"
+        }
+      ]
+    }
+  }
+}

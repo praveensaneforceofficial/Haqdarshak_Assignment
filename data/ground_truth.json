@@ -1,0 +1,71 @@
+{
+  "doc_1_english_circular.txt": {
+    "scheme_name": "Mukhyamantri Balika Protsahan Yojana 2026",
+    "department": "Women and Child Development",
+    "benefit_type": "Direct Cash / Financial Assistance",
+    "benefit_amount": "Rs. 1,500 per month",
+    "benefit_frequency": "Quarterly",
+    "eligibility_conditions": [
+      "The applicant must be a domicile of Madhya Pradesh.",
+      "The applicant must be a female student enrolled in Class 11 or Class 12 in a recognised government school.",
+      "Annual family income from all sources must not exceed Rs. 2,50,000 per annum.",
+      "Age of the applicant must be between 15 and 19 years as of 1st January 2026.",
+      "The applicant must not be receiving scholarship benefits from any other state-funded scheme simultaneously."
+    ],
+    "documents_required": [
+      "Domicile Certificate of Madhya Pradesh.",
+      "Aadhaar Card of the applicant (linked with active mobile number).",
+      "Valid Income Certificate issued by Tahsildar / competent authority.",
+      "Marksheet of Class 10 examination.",
+      "Bonafide Student Certificate issued by the Head of the Institution.",
+      "Bank Passbook copy showing active DBT-enabled account."
+    ],
+    "how_to_apply": "Applicants must submit their applications online through the official portal at https://wcd.mp.gov.in/balika-protsahan. Offline applications submitted to the District Programme Officer (DPO) will also be accepted at block-level Seva Kendras.",
+    "deadline": "31st December 2026",
+    "official_link": "https://wcd.mp.gov.in/balika-protsahan"
+  },
+  "doc_2_hindi_circular.txt": {
+    "scheme_name": "मुख्यमंत्री कृषक संबल योजना",
+    "department": "कृषि एवं किसान कल्याण विभाग",
+    "benefit_type": "Direct Cash / Financial Assistance",
+    "benefit_amount": "₹6,000 प्रति वर्ष",
+    "benefit_frequency": "Annual",
+    "eligibility_conditions": [
+      "आवेदक उत्तर प्रदेश का मूल निवासी होना चाहिए।",
+      "आवेदक के पास अधिकतम 2 हेक्टेयर (5 एकड़) कृषि योग्य भूमि का स्वामित्व होना चाहिए।",
+      "आवेदक किसान के परिवार में कोई सदस्य आयकर दाता अथवा सरकारी सेवा में कार्यरत नहीं होना चाहिए।",
+      "आवेदक की न्यूनतम आयु 18 वर्ष पूर्ण होनी चाहिए।"
+    ],
+    "documents_required": [
+      "आधार कार्ड (मोबाइल नंबर से लिंक)",
+      "खतौनी / भू-स्वामित्व प्रमाण पत्र (राजस्व विभाग द्वारा सत्यापित)",
+      "बैंक पासबुक (DBT सक्रिय बैंक खाता)",
+      "निवास प्रमाण पत्र"
+    ],
+    "how_to_apply": "इच्छुक किसान कृषि विभाग के आधिकारिक पोर्टल https://upagriculture.up.gov.in पर जाकर ऑनलाइन पंजीकरण कर सकते हैं अथवा नजदीकी जन सेवा केंद्र (CSC) के माध्यम से आवेदन कर सकते हैं।",
+    "deadline": "30 नवंबर 2026",
+    "official_link": "https://upagriculture.up.gov.in"
+  },
+  "doc_4_scanned_noisy_ocr.txt": {
+    "scheme_name": "Rajasthan Mukhyamantri Vridhjan Samman Pension Yojana",
+    "department": "Department of Social Justice and Empowerment",
+    "benefit_type": "Social Security Pension",
+    "benefit_amount": "Monthly pension of Rs. 1,000 per month for beneficiaries aged 55 to 74 years, and Rs. 1,250 per month for beneficiaries aged 75 years and above",
+    "benefit_frequency": "Monthly",
+    "eligibility_conditions": [
+      "Resident of Rajasthan.",
+      "Women aged 55 years or older; Men aged 58 years or older.",
+      "Total combined family annual income must not exceed Rs. 48,000/- per annum.",
+      "Persons with no family support or having destitute status."
+    ],
+    "documents_required": [
+      "Jan Aadhaar Card / Aadhaar Card",
+      "Age proof / Voter ID",
+      "Income self-declaration certificate attested by Patwari/Sarpanch",
+      "Bank passbook"
+    ],
+    "how_to_apply": "Apply online through Emitra kiosks or RajSSP portal at https://rajssp.raj.nic.in.",
+    "deadline": "No last date for application (Open throughout the year)",
+    "official_link": "https://rajssp.raj.nic.in"
+  }
+}
