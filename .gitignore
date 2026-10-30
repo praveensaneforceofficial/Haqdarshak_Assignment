@@ -1,0 +1,22 @@
+# Security & Secrets - NEVER COMMIT
+.env
+.env.local
+.env.*.local
+*.key
+secrets/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Output & Temporary Data
+*.log
+.coverage
+.pytest_cache/
